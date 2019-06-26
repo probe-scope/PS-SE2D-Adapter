@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Dropbox\O-Scope Probe\Digital Test SE2D - PCB\SE2D v1.0.PcbDoc
+RuleKind=Clearance|RuleName=BGAClearance|Scope=Board|Minimum=7.88
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
